@@ -1,5 +1,5 @@
 [build]
-  base = "client"
+  base = "Emanam - Sentiment analysis SE 1.0 (AG)/client"
   publish = "dist"
   command = "npm run build"
 
